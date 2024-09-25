@@ -1,0 +1,228 @@
+{
+  "ver": "2.3.12",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "cb56bb2c-081a-4cc3-908f-e544a1793ee2",
+  "files": [],
+  "subMetas": {
+    "eb4fd": {
+      "importer": "gltf-mesh",
+      "uuid": "cb56bb2c-081a-4cc3-908f-e544a1793ee2@eb4fd",
+      "displayName": "",
+      "id": "eb4fd",
+      "name": "PressStatic.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 436
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d2685": {
+      "importer": "gltf-embeded-image",
+      "uuid": "cb56bb2c-081a-4cc3-908f-e544a1793ee2@d2685",
+      "displayName": "",
+      "id": "d2685",
+      "name": "PressStaticSurface_Color.png.image",
+      "userData": {
+        "gltfIndex": 0,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": false,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "f5342": {
+      "importer": "texture",
+      "uuid": "cb56bb2c-081a-4cc3-908f-e544a1793ee2@f5342",
+      "displayName": "",
+      "id": "f5342",
+      "name": "PressStaticSurface_Color.png.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "cb56bb2c-081a-4cc3-908f-e544a1793ee2@d2685"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "61d71": {
+      "importer": "gltf-material",
+      "uuid": "cb56bb2c-081a-4cc3-908f-e544a1793ee2@61d71",
+      "displayName": "",
+      "id": "61d71",
+      "name": "PressStatic.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4d2ee": {
+      "importer": "gltf-scene",
+      "uuid": "cb56bb2c-081a-4cc3-908f-e544a1793ee2@4d2ee",
+      "displayName": "",
+      "id": "4d2ee",
+      "name": "PressStatic.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "PressStaticSurface_Color.png",
+        "uri": "cb56bb2c-081a-4cc3-908f-e544a1793ee2@d2685"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "cb56bb2c-081a-4cc3-908f-e544a1793ee2@4d2ee",
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "cb56bb2c-081a-4cc3-908f-e544a1793ee2@eb4fd"
+      ],
+      "skeletons": [],
+      "textures": [
+        "cb56bb2c-081a-4cc3-908f-e544a1793ee2@f5342"
+      ],
+      "materials": [
+        "cb56bb2c-081a-4cc3-908f-e544a1793ee2@61d71"
+      ],
+      "scenes": [
+        "cb56bb2c-081a-4cc3-908f-e544a1793ee2@4d2ee"
+      ]
+    },
+    "materials": {
+      "cb56bb2c-081a-4cc3-908f-e544a1793ee2@61d71": {
+        "__type__": "cc.Material",
+        "_name": "",
+        "_objFlags": 0,
+        "__editorExtras__": {},
+        "_native": "",
+        "_effectAsset": {
+          "__uuid__": "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+          "__expectedType__": "cc.EffectAsset"
+        },
+        "_techIdx": 0,
+        "_defines": [
+          {
+            "USE_ALBEDO_MAP": true
+          },
+          {},
+          {},
+          {}
+        ],
+        "_states": [
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          }
+        ],
+        "_props": [
+          {
+            "mainTexture": {
+              "__uuid__": "428b2db7-7ee8-49d2-80f3-7d3cf1eb0798@6c48a",
+              "__expectedType__": "cc.Texture2D"
+            },
+            "albedoScale": 1.5,
+            "shininessExponent": 32,
+            "specularColor": {
+              "__type__": "cc.Color",
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 255
+            },
+            "specularFactor": 0.3
+          },
+          {},
+          {},
+          {}
+        ]
+      }
+    }
+  }
+}

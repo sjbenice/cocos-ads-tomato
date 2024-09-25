@@ -1,0 +1,97 @@
+{
+  "ver": "2.3.12",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "6bb12a90-54a6-4593-9250-3fee705bcee9",
+  "files": [],
+  "subMetas": {
+    "a62fe": {
+      "importer": "gltf-mesh",
+      "uuid": "6bb12a90-54a6-4593-9250-3fee705bcee9@a62fe",
+      "displayName": "",
+      "id": "a62fe",
+      "name": "Scene.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 80
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b4b21": {
+      "importer": "gltf-material",
+      "uuid": "6bb12a90-54a6-4593-9250-3fee705bcee9@b4b21",
+      "displayName": "",
+      "id": "b4b21",
+      "name": "Wood_dark2_1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "75a22": {
+      "importer": "gltf-scene",
+      "uuid": "6bb12a90-54a6-4593-9250-3fee705bcee9@75a22",
+      "displayName": "",
+      "id": "75a22",
+      "name": "Fence.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "6bb12a90-54a6-4593-9250-3fee705bcee9@75a22",
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "6bb12a90-54a6-4593-9250-3fee705bcee9@a62fe"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "6bb12a90-54a6-4593-9250-3fee705bcee9@b4b21"
+      ],
+      "scenes": [
+        "6bb12a90-54a6-4593-9250-3fee705bcee9@75a22"
+      ]
+    }
+  }
+}

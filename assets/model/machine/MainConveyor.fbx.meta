@@ -1,0 +1,344 @@
+{
+  "ver": "2.3.12",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "6c64152f-303d-4afa-af98-10e7ec4f2945",
+  "files": [],
+  "subMetas": {
+    "53415": {
+      "importer": "gltf-material",
+      "uuid": "6c64152f-303d-4afa-af98-10e7ec4f2945@53415",
+      "displayName": "",
+      "id": "53415",
+      "name": "UnderRails.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8900f": {
+      "importer": "gltf-mesh",
+      "uuid": "6c64152f-303d-4afa-af98-10e7ec4f2945@8900f",
+      "displayName": "",
+      "id": "8900f",
+      "name": "ground2.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 12
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b7f96": {
+      "importer": "gltf-mesh",
+      "uuid": "6c64152f-303d-4afa-af98-10e7ec4f2945@b7f96",
+      "displayName": "",
+      "id": "b7f96",
+      "name": "ground1.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 12
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "31ecb": {
+      "importer": "gltf-mesh",
+      "uuid": "6c64152f-303d-4afa-af98-10e7ec4f2945@31ecb",
+      "displayName": "",
+      "id": "31ecb",
+      "name": "GreenBottom.mesh",
+      "userData": {
+        "gltfIndex": 2,
+        "triangleCount": 12
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e5194": {
+      "importer": "gltf-mesh",
+      "uuid": "6c64152f-303d-4afa-af98-10e7ec4f2945@e5194",
+      "displayName": "",
+      "id": "e5194",
+      "name": "Bottom.mesh",
+      "userData": {
+        "gltfIndex": 3,
+        "triangleCount": 12
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9a867": {
+      "importer": "gltf-mesh",
+      "uuid": "6c64152f-303d-4afa-af98-10e7ec4f2945@9a867",
+      "displayName": "",
+      "id": "9a867",
+      "name": "LeftWall.mesh",
+      "userData": {
+        "gltfIndex": 4,
+        "triangleCount": 116
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7494c": {
+      "importer": "gltf-mesh",
+      "uuid": "6c64152f-303d-4afa-af98-10e7ec4f2945@7494c",
+      "displayName": "",
+      "id": "7494c",
+      "name": "RightWall.mesh",
+      "userData": {
+        "gltfIndex": 5,
+        "triangleCount": 118
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f5226": {
+      "importer": "gltf-mesh",
+      "uuid": "6c64152f-303d-4afa-af98-10e7ec4f2945@f5226",
+      "displayName": "",
+      "id": "f5226",
+      "name": "Rails.mesh",
+      "userData": {
+        "gltfIndex": 6,
+        "triangleCount": 4120
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5c074": {
+      "importer": "gltf-material",
+      "uuid": "6c64152f-303d-4afa-af98-10e7ec4f2945@5c074",
+      "displayName": "",
+      "id": "5c074",
+      "name": "Conveyor_Ground.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0cd77": {
+      "importer": "gltf-material",
+      "uuid": "6c64152f-303d-4afa-af98-10e7ec4f2945@0cd77",
+      "displayName": "",
+      "id": "0cd77",
+      "name": "Conveyor_main.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "54f6c": {
+      "importer": "gltf-material",
+      "uuid": "6c64152f-303d-4afa-af98-10e7ec4f2945@54f6c",
+      "displayName": "",
+      "id": "54f6c",
+      "name": "Rails.material",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1f77a": {
+      "importer": "gltf-scene",
+      "uuid": "6c64152f-303d-4afa-af98-10e7ec4f2945@1f77a",
+      "displayName": "",
+      "id": "1f77a",
+      "name": "MainConveyor.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "6c64152f-303d-4afa-af98-10e7ec4f2945@1f77a",
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "6c64152f-303d-4afa-af98-10e7ec4f2945@8900f",
+        "6c64152f-303d-4afa-af98-10e7ec4f2945@b7f96",
+        "6c64152f-303d-4afa-af98-10e7ec4f2945@31ecb",
+        "6c64152f-303d-4afa-af98-10e7ec4f2945@e5194",
+        "6c64152f-303d-4afa-af98-10e7ec4f2945@9a867",
+        "6c64152f-303d-4afa-af98-10e7ec4f2945@7494c",
+        "6c64152f-303d-4afa-af98-10e7ec4f2945@f5226"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "6c64152f-303d-4afa-af98-10e7ec4f2945@5c074",
+        "6c64152f-303d-4afa-af98-10e7ec4f2945@53415",
+        "6c64152f-303d-4afa-af98-10e7ec4f2945@0cd77",
+        "6c64152f-303d-4afa-af98-10e7ec4f2945@54f6c"
+      ],
+      "scenes": [
+        "6c64152f-303d-4afa-af98-10e7ec4f2945@1f77a"
+      ]
+    },
+    "materials": {
+      "6c64152f-303d-4afa-af98-10e7ec4f2945@54f6c": {
+        "__type__": "cc.Material",
+        "_name": "",
+        "_objFlags": 0,
+        "__editorExtras__": {},
+        "_native": "",
+        "_effectAsset": {
+          "__uuid__": "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+          "__expectedType__": "cc.EffectAsset"
+        },
+        "_techIdx": 0,
+        "_defines": [
+          {
+            "DCC_APP_NAME": 1
+          },
+          {},
+          {},
+          {}
+        ],
+        "_states": [
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          }
+        ],
+        "_props": [
+          {
+            "mainColor": {
+              "__type__": "cc.Color",
+              "r": 181,
+              "g": 185,
+              "b": 195,
+              "a": 255
+            },
+            "shininessExponent": 1,
+            "specularColor": {
+              "__type__": "cc.Color",
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 255
+            }
+          },
+          {},
+          {},
+          {}
+        ]
+      }
+    }
+  }
+}

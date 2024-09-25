@@ -1,0 +1,147 @@
+{
+  "ver": "2.3.12",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "727475dc-0df1-4ead-bc05-b9fc8e85d7a2",
+  "files": [],
+  "subMetas": {
+    "82242": {
+      "importer": "texture",
+      "uuid": "727475dc-0df1-4ead-bc05-b9fc8e85d7a2@82242",
+      "displayName": "",
+      "id": "82242",
+      "name": "ladleSurface_Color.png.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "727475dc-0df1-4ead-bc05-b9fc8e85d7a2@ae0d3"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "94923": {
+      "importer": "gltf-material",
+      "uuid": "727475dc-0df1-4ead-bc05-b9fc8e85d7a2@94923",
+      "displayName": "",
+      "id": "94923",
+      "name": "ladle.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6c296": {
+      "importer": "gltf-mesh",
+      "uuid": "727475dc-0df1-4ead-bc05-b9fc8e85d7a2@6c296",
+      "displayName": "",
+      "id": "6c296",
+      "name": "ladle.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 1128
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ae0d3": {
+      "importer": "gltf-embeded-image",
+      "uuid": "727475dc-0df1-4ead-bc05-b9fc8e85d7a2@ae0d3",
+      "displayName": "",
+      "id": "ae0d3",
+      "name": "ladleSurface_Color.png.image",
+      "userData": {
+        "gltfIndex": 0,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": false,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "4f3c3": {
+      "importer": "gltf-scene",
+      "uuid": "727475dc-0df1-4ead-bc05-b9fc8e85d7a2@4f3c3",
+      "displayName": "",
+      "id": "4f3c3",
+      "name": "ladle.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "ladleSurface_Color.png",
+        "uri": "727475dc-0df1-4ead-bc05-b9fc8e85d7a2@ae0d3"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "727475dc-0df1-4ead-bc05-b9fc8e85d7a2@4f3c3",
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "727475dc-0df1-4ead-bc05-b9fc8e85d7a2@6c296"
+      ],
+      "skeletons": [],
+      "textures": [
+        "727475dc-0df1-4ead-bc05-b9fc8e85d7a2@82242"
+      ],
+      "materials": [
+        "727475dc-0df1-4ead-bc05-b9fc8e85d7a2@94923"
+      ],
+      "scenes": [
+        "727475dc-0df1-4ead-bc05-b9fc8e85d7a2@4f3c3"
+      ]
+    }
+  }
+}

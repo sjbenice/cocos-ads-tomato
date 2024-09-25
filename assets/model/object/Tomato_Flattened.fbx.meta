@@ -1,0 +1,227 @@
+{
+  "ver": "2.3.12",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "08e5bcc1-e4c6-43e6-b94a-7c8afbc0896a",
+  "files": [],
+  "subMetas": {
+    "29264": {
+      "importer": "texture",
+      "uuid": "08e5bcc1-e4c6-43e6-b94a-7c8afbc0896a@29264",
+      "displayName": "",
+      "id": "29264",
+      "name": "MI_Tomato_01_BaseColor.png.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "08e5bcc1-e4c6-43e6-b94a-7c8afbc0896a@3cb40"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "965fb": {
+      "importer": "gltf-mesh",
+      "uuid": "08e5bcc1-e4c6-43e6-b94a-7c8afbc0896a@965fb",
+      "displayName": "",
+      "id": "965fb",
+      "name": "Tomato_Flattened.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 564
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3cb40": {
+      "importer": "gltf-embeded-image",
+      "uuid": "08e5bcc1-e4c6-43e6-b94a-7c8afbc0896a@3cb40",
+      "displayName": "",
+      "id": "3cb40",
+      "name": "MI_Tomato_01_BaseColor.png.image",
+      "userData": {
+        "gltfIndex": 0,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": true,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "a8b34": {
+      "importer": "gltf-material",
+      "uuid": "08e5bcc1-e4c6-43e6-b94a-7c8afbc0896a@a8b34",
+      "displayName": "",
+      "id": "a8b34",
+      "name": "MI_Tomato_01.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e1555": {
+      "importer": "gltf-scene",
+      "uuid": "08e5bcc1-e4c6-43e6-b94a-7c8afbc0896a@e1555",
+      "displayName": "",
+      "id": "e1555",
+      "name": "Tomato_Flattened.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "MI_Tomato_01_BaseColor.png",
+        "uri": "08e5bcc1-e4c6-43e6-b94a-7c8afbc0896a@3cb40"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "08e5bcc1-e4c6-43e6-b94a-7c8afbc0896a@e1555",
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "08e5bcc1-e4c6-43e6-b94a-7c8afbc0896a@965fb"
+      ],
+      "skeletons": [],
+      "textures": [
+        "08e5bcc1-e4c6-43e6-b94a-7c8afbc0896a@29264"
+      ],
+      "materials": [
+        "08e5bcc1-e4c6-43e6-b94a-7c8afbc0896a@a8b34"
+      ],
+      "scenes": [
+        "08e5bcc1-e4c6-43e6-b94a-7c8afbc0896a@e1555"
+      ]
+    },
+    "materials": {
+      "08e5bcc1-e4c6-43e6-b94a-7c8afbc0896a@a8b34": {
+        "__type__": "cc.Material",
+        "_name": "",
+        "_objFlags": 0,
+        "__editorExtras__": {},
+        "_native": "",
+        "_effectAsset": {
+          "__uuid__": "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+          "__expectedType__": "cc.EffectAsset"
+        },
+        "_techIdx": 0,
+        "_defines": [
+          {
+            "USE_ALBEDO_MAP": true
+          },
+          {},
+          {},
+          {}
+        ],
+        "_states": [
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          }
+        ],
+        "_props": [
+          {
+            "mainTexture": {
+              "__uuid__": "08e5bcc1-e4c6-43e6-b94a-7c8afbc0896a@29264",
+              "__expectedType__": "cc.Texture2D"
+            },
+            "albedoScale": 3,
+            "shininessExponent": 20.000000000000004,
+            "specularColor": {
+              "__type__": "cc.Color",
+              "r": 124,
+              "g": 124,
+              "b": 124,
+              "a": 255
+            }
+          },
+          {},
+          {},
+          {}
+        ]
+      }
+    }
+  }
+}

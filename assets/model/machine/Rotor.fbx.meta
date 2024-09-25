@@ -1,0 +1,97 @@
+{
+  "ver": "2.3.12",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "1938a5f5-e1fe-4d99-865f-8ba7bd337536",
+  "files": [],
+  "subMetas": {
+    "9d9d2": {
+      "importer": "gltf-mesh",
+      "uuid": "1938a5f5-e1fe-4d99-865f-8ba7bd337536@9d9d2",
+      "displayName": "",
+      "id": "9d9d2",
+      "name": "Rotor.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 186
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "935df": {
+      "importer": "gltf-material",
+      "uuid": "1938a5f5-e1fe-4d99-865f-8ba7bd337536@935df",
+      "displayName": "",
+      "id": "935df",
+      "name": "White.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c82e6": {
+      "importer": "gltf-scene",
+      "uuid": "1938a5f5-e1fe-4d99-865f-8ba7bd337536@c82e6",
+      "displayName": "",
+      "id": "c82e6",
+      "name": "Rotor.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "1938a5f5-e1fe-4d99-865f-8ba7bd337536@c82e6",
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "1938a5f5-e1fe-4d99-865f-8ba7bd337536@9d9d2"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "1938a5f5-e1fe-4d99-865f-8ba7bd337536@935df"
+      ],
+      "scenes": [
+        "1938a5f5-e1fe-4d99-865f-8ba7bd337536@c82e6"
+      ]
+    }
+  }
+}

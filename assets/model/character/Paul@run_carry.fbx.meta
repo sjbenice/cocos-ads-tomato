@@ -1,0 +1,100 @@
+{
+  "ver": "2.3.12",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "51787a14-b3d4-475c-8e02-dd5e6aa1d0dd",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "87579": {
+      "importer": "gltf-scene",
+      "uuid": "51787a14-b3d4-475c-8e02-dd5e6aa1d0dd@87579",
+      "displayName": "",
+      "id": "87579",
+      "name": "Paul@run_carry.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c4cb9": {
+      "importer": "gltf-animation",
+      "uuid": "51787a14-b3d4-475c-8e02-dd5e6aa1d0dd@c4cb9",
+      "displayName": "",
+      "id": "c4cb9",
+      "name": "run_carry.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.7666666507720947
+        },
+        "events": []
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "animationImportSettings": [
+      {
+        "name": "CINEMA_4D_Main",
+        "duration": 0.7666666507720947,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "run_carry",
+            "from": 0,
+            "to": 0.7666666507720947,
+            "wrapMode": 2,
+            "previousId": "c4cb9"
+          }
+        ]
+      }
+    ],
+    "redirect": "51787a14-b3d4-475c-8e02-dd5e6aa1d0dd@87579",
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "51787a14-b3d4-475c-8e02-dd5e6aa1d0dd@87579"
+      ]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "__type__": "cc.PhysicsMaterial",
+  "_name": "",
+  "_objFlags": 0,
+  "__editorExtras__": {},
+  "_native": "",
+  "_friction": 5,
+  "_rollingFriction": 2,
+  "_spinningFriction": 2,
+  "_restitution": 0.2
+}

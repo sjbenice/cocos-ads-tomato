@@ -1,0 +1,356 @@
+{
+  "ver": "2.3.12",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "31f0cbf2-1fb3-4ea4-81c0-6e768f9788b2",
+  "files": [],
+  "subMetas": {
+    "b05e6": {
+      "importer": "gltf-mesh",
+      "uuid": "31f0cbf2-1fb3-4ea4-81c0-6e768f9788b2@b05e6",
+      "displayName": "",
+      "id": "b05e6",
+      "name": "Mesh.003.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 3095
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fa038": {
+      "importer": "gltf-material",
+      "uuid": "31f0cbf2-1fb3-4ea4-81c0-6e768f9788b2@fa038",
+      "displayName": "",
+      "id": "fa038",
+      "name": "BarnRoof.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9afcc": {
+      "importer": "gltf-material",
+      "uuid": "31f0cbf2-1fb3-4ea4-81c0-6e768f9788b2@9afcc",
+      "displayName": "",
+      "id": "9afcc",
+      "name": "BarnWall.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "404cc": {
+      "importer": "gltf-material",
+      "uuid": "31f0cbf2-1fb3-4ea4-81c0-6e768f9788b2@404cc",
+      "displayName": "",
+      "id": "404cc",
+      "name": "BarnDetail.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c8dd5": {
+      "importer": "gltf-scene",
+      "uuid": "31f0cbf2-1fb3-4ea4-81c0-6e768f9788b2@c8dd5",
+      "displayName": "",
+      "id": "c8dd5",
+      "name": "Barn_Player.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "31f0cbf2-1fb3-4ea4-81c0-6e768f9788b2@c8dd5",
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "31f0cbf2-1fb3-4ea4-81c0-6e768f9788b2@b05e6"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "31f0cbf2-1fb3-4ea4-81c0-6e768f9788b2@fa038",
+        "31f0cbf2-1fb3-4ea4-81c0-6e768f9788b2@9afcc",
+        "31f0cbf2-1fb3-4ea4-81c0-6e768f9788b2@404cc"
+      ],
+      "scenes": [
+        "31f0cbf2-1fb3-4ea4-81c0-6e768f9788b2@c8dd5"
+      ]
+    },
+    "materials": {
+      "31f0cbf2-1fb3-4ea4-81c0-6e768f9788b2@9afcc": {
+        "__type__": "cc.Material",
+        "_name": "",
+        "_objFlags": 0,
+        "__editorExtras__": {},
+        "_native": "",
+        "_effectAsset": {
+          "__uuid__": "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+          "__expectedType__": "cc.EffectAsset"
+        },
+        "_techIdx": 0,
+        "_defines": [
+          {
+            "DCC_APP_NAME": 2
+          },
+          {},
+          {},
+          {}
+        ],
+        "_states": [
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          }
+        ],
+        "_props": [
+          {
+            "mainColor": {
+              "__type__": "cc.Color",
+              "r": 247,
+              "g": 88,
+              "b": 13,
+              "a": 255
+            },
+            "shininessExponent": 1,
+            "transparencyFactor": 0
+          },
+          {},
+          {},
+          {}
+        ]
+      },
+      "31f0cbf2-1fb3-4ea4-81c0-6e768f9788b2@fa038": {
+        "__type__": "cc.Material",
+        "_name": "",
+        "_objFlags": 0,
+        "__editorExtras__": {},
+        "_native": "",
+        "_effectAsset": {
+          "__uuid__": "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+          "__expectedType__": "cc.EffectAsset"
+        },
+        "_techIdx": 0,
+        "_defines": [
+          {
+            "DCC_APP_NAME": 2
+          },
+          {},
+          {},
+          {}
+        ],
+        "_states": [
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          }
+        ],
+        "_props": [
+          {
+            "mainColor": {
+              "__type__": "cc.Color",
+              "r": 42,
+              "g": 145,
+              "b": 64,
+              "a": 255
+            },
+            "shininessExponent": 1,
+            "transparencyFactor": 0
+          },
+          {},
+          {},
+          {}
+        ]
+      },
+      "31f0cbf2-1fb3-4ea4-81c0-6e768f9788b2@404cc": {
+        "__type__": "cc.Material",
+        "_name": "",
+        "_objFlags": 0,
+        "__editorExtras__": {},
+        "_native": "",
+        "_effectAsset": {
+          "__uuid__": "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+          "__expectedType__": "cc.EffectAsset"
+        },
+        "_techIdx": 0,
+        "_defines": [
+          {
+            "DCC_APP_NAME": 2
+          },
+          {},
+          {},
+          {}
+        ],
+        "_states": [
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          }
+        ],
+        "_props": [
+          {
+            "albedoScale": 1.2,
+            "emissive": {
+              "__type__": "cc.Color",
+              "r": 85,
+              "g": 34,
+              "b": 34,
+              "a": 255
+            },
+            "shininessExponent": 1,
+            "transparencyFactor": 0
+          },
+          {},
+          {},
+          {}
+        ]
+      }
+    }
+  }
+}

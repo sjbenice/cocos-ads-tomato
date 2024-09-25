@@ -1,0 +1,173 @@
+{
+  "ver": "2.3.12",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "63149f52-0f93-4f59-8e73-801233362419",
+  "files": [],
+  "subMetas": {
+    "0e669": {
+      "importer": "gltf-mesh",
+      "uuid": "63149f52-0f93-4f59-8e73-801233362419@0e669",
+      "displayName": "",
+      "id": "0e669",
+      "name": "Rectangle_6.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 74
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1d7c6": {
+      "importer": "gltf-material",
+      "uuid": "63149f52-0f93-4f59-8e73-801233362419@1d7c6",
+      "displayName": "",
+      "id": "1d7c6",
+      "name": "Rectangles_transparency.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "92f07": {
+      "importer": "gltf-scene",
+      "uuid": "63149f52-0f93-4f59-8e73-801233362419@92f07",
+      "displayName": "",
+      "id": "92f07",
+      "name": "roundbox.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "63149f52-0f93-4f59-8e73-801233362419@92f07",
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "63149f52-0f93-4f59-8e73-801233362419@0e669"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "63149f52-0f93-4f59-8e73-801233362419@1d7c6"
+      ],
+      "scenes": [
+        "63149f52-0f93-4f59-8e73-801233362419@92f07"
+      ]
+    },
+    "materials": {
+      "63149f52-0f93-4f59-8e73-801233362419@1d7c6": {
+        "__type__": "cc.Material",
+        "_name": "",
+        "_objFlags": 0,
+        "__editorExtras__": {},
+        "_native": "",
+        "_effectAsset": {
+          "__uuid__": "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+          "__expectedType__": "cc.EffectAsset"
+        },
+        "_techIdx": 1,
+        "_defines": [
+          {
+            "DCC_APP_NAME": 1
+          },
+          {},
+          {},
+          {}
+        ],
+        "_states": [
+          {
+            "rasterizerState": {
+              "cullMode": 0
+            },
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          }
+        ],
+        "_props": [
+          {
+            "mainColor": {
+              "__type__": "cc.Color",
+              "r": 175,
+              "g": 194,
+              "b": 153,
+              "a": 166
+            }
+          },
+          {},
+          {},
+          {}
+        ]
+      }
+    }
+  }
+}

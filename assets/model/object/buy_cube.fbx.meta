@@ -1,0 +1,243 @@
+{
+  "ver": "2.3.12",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "36d94354-4020-42f0-9740-3856be679530",
+  "files": [],
+  "subMetas": {
+    "2da1d": {
+      "importer": "gltf-mesh",
+      "uuid": "36d94354-4020-42f0-9740-3856be679530@2da1d",
+      "displayName": "",
+      "id": "2da1d",
+      "name": "buy_cube.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 16
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "08c68": {
+      "importer": "gltf-mesh",
+      "uuid": "36d94354-4020-42f0-9740-3856be679530@08c68",
+      "displayName": "",
+      "id": "08c68",
+      "name": "Plane.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 2
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0d4f3": {
+      "importer": "gltf-mesh",
+      "uuid": "36d94354-4020-42f0-9740-3856be679530@0d4f3",
+      "displayName": "",
+      "id": "0d4f3",
+      "name": "buy_cube_green.mesh",
+      "userData": {
+        "gltfIndex": 2,
+        "triangleCount": 16
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e47ba": {
+      "importer": "gltf-material",
+      "uuid": "36d94354-4020-42f0-9740-3856be679530@e47ba",
+      "displayName": "",
+      "id": "e47ba",
+      "name": "Mat.1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a6b26": {
+      "importer": "gltf-material",
+      "uuid": "36d94354-4020-42f0-9740-3856be679530@a6b26",
+      "displayName": "",
+      "id": "a6b26",
+      "name": "farmer.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "519f2": {
+      "importer": "gltf-material",
+      "uuid": "36d94354-4020-42f0-9740-3856be679530@519f2",
+      "displayName": "",
+      "id": "519f2",
+      "name": "CoffeeBench.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "346cd": {
+      "importer": "gltf-scene",
+      "uuid": "36d94354-4020-42f0-9740-3856be679530@346cd",
+      "displayName": "",
+      "id": "346cd",
+      "name": "buy_cube.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "36d94354-4020-42f0-9740-3856be679530@346cd",
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "36d94354-4020-42f0-9740-3856be679530@2da1d",
+        "36d94354-4020-42f0-9740-3856be679530@08c68",
+        "36d94354-4020-42f0-9740-3856be679530@0d4f3"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "36d94354-4020-42f0-9740-3856be679530@e47ba",
+        "36d94354-4020-42f0-9740-3856be679530@a6b26",
+        "36d94354-4020-42f0-9740-3856be679530@519f2"
+      ],
+      "scenes": [
+        "36d94354-4020-42f0-9740-3856be679530@346cd"
+      ]
+    },
+    "materials": {
+      "36d94354-4020-42f0-9740-3856be679530@519f2": {
+        "__type__": "cc.Material",
+        "_name": "",
+        "_objFlags": 0,
+        "__editorExtras__": {},
+        "_native": "",
+        "_effectAsset": {
+          "__uuid__": "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+          "__expectedType__": "cc.EffectAsset"
+        },
+        "_techIdx": 0,
+        "_defines": [
+          {
+            "DCC_APP_NAME": 1
+          },
+          {},
+          {},
+          {}
+        ],
+        "_states": [
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          }
+        ],
+        "_props": [
+          {
+            "mainColor": {
+              "__type__": "cc.Color",
+              "r": 0,
+              "g": 255,
+              "b": 0,
+              "a": 255
+            }
+          },
+          {},
+          {},
+          {}
+        ]
+      }
+    }
+  }
+}
